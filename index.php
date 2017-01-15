@@ -1,32 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="description" content="Buy Used Calculators! Holiday Special, 25% Calculators! TI-84 Plus Sale. TI-84 Plus Sliver Edition Sale. Great prices on great calculators! Used Calculators! Used, no damage! Free Shipping! Used Calculators Co.">
-<link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.1/normalize.min.css"/>
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-<link href="style.css" rel="stylesheet" type="text/css"/>
-<link rel="shortcut icon" type="image/x-icon" href="images/home/calclogo.png">
-<title>Used Calculators</title>
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-</head>
-    <body>
-        <header>
-            <div class="wrapper">
-                <nav>
-                    <h1>
-                        <a href="index.html"><img src="images/home/xmaslogo.png" alt="Used Calculators"></a>
-                    </h1>
-                    <ul>
-                        <a href="https://twitter.com/usedcalculators"><li><i class="fa fa-twitter fa-fw fa-2x"></i></li></a>
-                        <a href="https://www.instagram.com/usedcalculators/"><li><i class="fa fa-instagram fa-fw fa-2x"></i></li></a>
-                    </ul>
-                </nav>
-            </div>
-        </header>
+<?php include('header.php');?>
         <main>
             <div class="snowwrapper">
-                
+
                 <h2>Holiday Special! <br> All Calculators 25% Off!</h2>
                     <div class="snow">
                         <div class="flake"></div>
@@ -191,9 +166,9 @@
                 <!-- Product 1 Start -->
                 <div class="row">
                     <div class="one_half">
-                        
+
                         <img src="images/products/ti-84plus.jpg" alt="TI-84 Plus" class="product">
-                      
+
                     </div>
                     <div class="one_half">
                         <h4>TI-84 Plus</h4>
@@ -201,17 +176,17 @@
                         <p>Being a smal bussiness, we let paypal handle all credit/debit card transactions! All major cards accepted!</p>
                         <img class="creditcard" src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/cc-badges-ppmcvdam.png" alt="Buy now with PayPal" />
                         <p>Free shipping!</p>
-                        
+
                         <strike style="color:#c03336"><p>$80</p></strike>
                         <p style="color:#33C081">$60</p>
-                        
+
                         <!-- BUY NOW -->
-                        
+
                             <form class="buy" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
                                 <input type="hidden" name="cmd" value="_s-xclick">
-                            
+
                             <!-- Button Encryption -->
-                            
+
                                 <input type="image" src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/buy-logo-large.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
                             </form>
                     </div>
@@ -219,9 +194,9 @@
                 <!-- Product 2 Start -->
                 <div class="row">
                     <div class="one_half">
-                      
+
                         <img src="images/products/ti-84plus2.jpg" alt="TI-84 Plus" class="product">
-                     
+
                     </div>
                     <div class="one_half">
                         <h4>TI-84 Plus</h4>
@@ -229,17 +204,17 @@
                         <p>Being a smal bussiness, we let paypal handle all credit/debit card transactions! All major cards accepted!</p>
                         <img class="creditcard" src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/cc-badges-ppmcvdam.png" alt="Buy now with PayPal" />
                         <p>Free shipping!</p>
-                        
+
                         <strike style="color:#c03336"><p>$80</p></strike>
                         <p style="color:#33C081">$60</p>
-                        
+
                         <!-- BUY NOW -->
-                        
+
                             <form class="buy" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
                                 <input type="hidden" name="cmd" value="_s-xclick">
-                            
+
                             <!-- Button Encryption -->
-                            
+
                                 <input type="image" src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/buy-logo-large.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
                             </form>
                     </div>
@@ -253,9 +228,9 @@
                 <!-- Product 1 Start -->
                 <div class="row">
                     <div class="one_half">
-                       
+
                         <img src="images/products/ti-84plussilver.jpg" alt="TI-84 Sliver Edition" class="product">
-                       
+
                     </div>
                     <div class="one_half">
                         <h4>TI-84 Plus Sliver Edition</h4>
@@ -263,17 +238,17 @@
                         <p>Being a smal bussiness, we let paypal handle all credit/debit card transactions! All major cards accepted!</p>
                         <img class="creditcard" src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/cc-badges-ppmcvdam.png" alt="Buy now with PayPal" />
                         <p>Free shipping!</p>
-                        
+
                         <strike style="color:#c03336"><p>$80</p></strike>
                         <p style="color:#33C081">$60</p>
-                        
+
                         <!-- BUY NOW -->
-                        
+
                             <form class="buy" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
                                 <input type="hidden" name="cmd" value="_s-xclick">
-                            
+
                             <!-- Button Encryption -->
-                            
+
                                 <input type="image" src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/buy-logo-large.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
                             </form>
                     </div>
@@ -281,9 +256,9 @@
                 <!-- Product 2 Start -->
                 <div class="row">
                     <div class="one_half">
-                        
+
                         <img src="images/products/ti-84plussilver2.jpg" alt="TI-84 Sliver Edition" class="product">
-                       
+
                     </div>
                     <div class="one_half">
                         <h4>TI-84 Plus Sliver Edition</h4>
@@ -291,17 +266,17 @@
                         <p>Being a smal bussiness, we let paypal handle all credit/debit card transactions! All major cards accepted!</p>
                         <img class="creditcard" src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/cc-badges-ppmcvdam.png" alt="Buy now with PayPal" />
                         <p>Free shipping!</p>
-                        
+
                         <strike style="color:#c03336"><p>$80</p></strike>
                         <p style="color:#33C081">$60</p>
-                        
+
                         <!-- BUY NOW -->
-                        
+
                             <form class="buy" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
                                 <input type="hidden" name="cmd" value="_s-xclick">
-                            
+
                             <!-- Button Encryption -->
-                            
+
                                 <input type="image" src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/buy-logo-large.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
                             </form>
                     </div>
@@ -309,27 +284,6 @@
             </div>
         </main>
             <div class="wrapper">
-                <img class="slay" src="images/home/lights.png">    
+                <img class="slay" src="images/home/lights.png">
             </div>
-            <!--
-            <div class="wrapper">
-                <hr>
-            </div>
-            -->
-        <footer>
-            <div class="wrapper">
-                <div class="row">
-                    <div class="one_third">
-                        <a href="aboutus.html"><h5>About Us</h5></a>
-                    </div>
-                    <div class="one_third">
-                        <a href="contactus.html"><h5>Contact Us</h5></a>
-                    </div>
-                    <div class="one_third">
-                        <h5>Copyright © 2015 Used Calculators</h5>
-                    </div>
-                </div>
-            </div>
-        </footer>
-    </body>
-</html>
+<?php include('footer.php');?>

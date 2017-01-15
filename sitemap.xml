@@ -12,17 +12,17 @@
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://usedcalculators.co/index.html</loc>
+  <loc>http://usedcalculators.co/index.php</loc>
   <lastmod>2015-12-17T00:52:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://usedcalculators.co/aboutus.html</loc>
+  <loc>http://usedcalculators.co/aboutus.php</loc>
   <lastmod>2015-12-14T05:36:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://usedcalculators.co/contactus.html</loc>
+  <loc>http://usedcalculators.co/contactus.php</loc>
   <lastmod>2015-12-14T04:52:25+00:00</lastmod>
   <priority>0.80</priority>
 </url>
